@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jimyihendrix
-- 👀 I’m interested in learning from the bests
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on any project
+- 👋 Here @Jimyihendrix
+- 👀 Interested in learning from the bests
+- 🌱 Frontend Developer
 - 📫 How to reach me -> jimyihendrix@gmail.com
 
 <!---
