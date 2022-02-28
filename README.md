@@ -1,7 +1,7 @@
 - 👋 Here @Jimyihendrix
-- 👀 Interested in learning from the bests
+- 👀 Everyday-learner
 - 🌱 Frontend Developer
-- 📫 How to reach me -> jimyihendrix@gmail.com
+- 📫 Let's keep in touch -> jimyihendrix@gmail.com
 
 <!---
 Jimyihendrix/Jimyihendrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
