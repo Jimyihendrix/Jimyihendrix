@@ -1,6 +1,4 @@
-- 👋 Here @Jimyihendrix
-- 👀 Everyday-learner
-- 🌱 Frontend Developer
+- 👋 @Jimyihendrix
 - 📫 Let's keep in touch -> jimyihendrix@gmail.com
 
 <!---
